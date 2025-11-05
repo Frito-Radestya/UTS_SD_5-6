@@ -7,7 +7,7 @@ vector<int> rotasiKiri(int d, vector<int> arr_frito) {
     
     // ukuran array
     int n = arr_frito.size();
-    
+
     // Menghitung rotasi efektif
     int rotasiEfektif = d % n;
     
